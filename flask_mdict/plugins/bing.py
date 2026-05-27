@@ -19,7 +19,7 @@ def init():
     title = '必应翻译'
     dict_uuid = 'bing_translate'
     about = 'https://cn.bing.com/translator/'
-    enable = True
+    enable = False
     config = {
         'title': title,
         'uuid': dict_uuid,

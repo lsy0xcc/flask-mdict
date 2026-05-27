@@ -19,7 +19,7 @@ def init():
     title = '有道智云'
     dict_uuid = 'youdao_translate'
     about = 'https://ai.youdao.com/product-fanyi-text.s'
-    enable = True
+    enable = False
     config = {
         'title': title,
         'uuid': dict_uuid,

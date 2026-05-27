@@ -19,7 +19,7 @@ def init():
     title = '阿里翻译-阿里巴巴'
     dict_uuid = 'alibaba_translate'
     about = 'https://translate.alibaba.com/'
-    enable = True
+    enable = False
     config = {
         'title': title,
         'uuid': dict_uuid,

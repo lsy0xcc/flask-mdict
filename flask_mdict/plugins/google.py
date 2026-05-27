@@ -20,7 +20,7 @@ def init():
     title = 'Google 翻译'
     dict_uuid = 'gtranslate'
     about = 'google-translate-for-goldendict<br />https://github.com/xinebf/google-translate-for-goldendict'
-    enable = True
+    enable = False
     config = {
         'title': title,
         'uuid': dict_uuid,
