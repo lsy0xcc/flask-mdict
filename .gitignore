@@ -6,3 +6,4 @@ build/
 dist/
 content/
 .vscode/
+.venv/
